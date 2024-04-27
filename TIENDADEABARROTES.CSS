@@ -1,0 +1,89 @@
+title{
+color: blue;
+
+
+}
+.name{
+    color: red;
+text-align: center;
+background-color: white;
+border-style:outset;
+
+
+
+
+}
+body{
+    /*background-image:url("tiendadeabarrotes.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: auto;*/
+   background-color: lightblue;
+    
+}
+
+.inicio{
+
+text-align: center;
+font-size: 64px;
+color: blue;
+font-family: monospace;
+background-color: gold;
+border-color: black;
+
+}
+.tienda{
+color: hotpink;
+}
+.abarrotando{
+color: fuchsia;
+
+}
+.lol{
+color: indigo;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: lightblue;  
+
+
+}
+audio{
+    border-style: dashed;
+border-color: blue;
+
+}
+.ambiente{
+color: gold;
+font-size: 22px;
+text-align: center;
+background-color: red;
+border-style: ridge;
+border-color: black;
+
+}
+.sinaloense{
+color: burlywood;
+background-color: aquamarine;
+border-style: groove;
+border-color: blue;
+
+
+}
+.top{
+color: blueviolet;
+text-align: center;
+font-size: 22px;
+background-color: cornflowerblue;
+border-style: outset;
+border-color: coral;
+
+
+}
+
+a:hover{
+color: green;
+
+}
+
